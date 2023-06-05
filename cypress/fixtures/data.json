@@ -10,12 +10,12 @@
   "City": "Some_city",
   "ZipCode": "Some_zip",
   "LoginName": "World",
-  "PasswordReg": "Qwerty1/",
+  "PasswordReg": "Qwerty1*",
  
   
 
   "Login": "World",
-  "Password": "Qwerty1/",
+  "Password": "Qwerty1*",
   "Username": "Alan"
 
 }
