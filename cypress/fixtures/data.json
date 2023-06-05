@@ -1,0 +1,21 @@
+{
+
+  "FirstName": "Alan",
+  "LastName": "Poll",
+  "Email": "hello@gmail.com",
+  "Telephone": "+38011223344",
+  "Fax": "0444563434",
+  "Company": "Some_company",
+  "Address": "Some_address",
+  "City": "Some_city",
+  "ZipCode": "Some_zip",
+  "LoginName": "World",
+  "PasswordReg": "Qwerty1/",
+ 
+  
+
+  "Login": "World",
+  "Password": "Qwerty1/",
+  "Username": "Alan"
+
+}
